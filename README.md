@@ -1,6 +1,6 @@
 **Hey There! Welcome to my GitHub** 👋
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my Github Profile represent my journey :running_man: - This is Wahid Ali.I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies. I am a Software Engineer By profession and working as a full-stack web developer.
+ <p align="center"><h1>Happy to see you here</h1> This is Wahid Ali.I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies. I am a Software Engineer By profession and working as a full-stack web developer.
  I use to work in different technologies like Laravel & CodeIgniter.
 </p>
 
