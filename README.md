@@ -25,8 +25,6 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 <code><img height="35" src="https://skillicons.dev/icons?i=githubactions"></code>
 
