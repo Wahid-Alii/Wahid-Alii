@@ -4,18 +4,6 @@
  I use to work in different technologies like Laravel & CodeIgniter.
 </p>
 
-# Tools & Technologies I Use For Development:
-<!-- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<br> -->
-
 # 🛠️ Tools & Technologies I Use For Development:
 
 ### 🌐 Frontend Development
@@ -26,45 +14,27 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
 
----
-
-### ⚙️ Backend Development
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
 <code><img height="35" src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4"></code> <!-- Livewire -->
 
----
-
-### 🗄️ Database
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 
----
-
-### 🚀 DevOps & Deployment
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="35" src="https://skillicons.dev/icons?i=github"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 
----
-
-### 💻 Operating System & Tools
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
 
----
-
-### 🧠 Programming Languages
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 
----
-
-### 🔄 CI / CD
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png"></code>
+<code><img height="35" src="https://skillicons.dev/icons?i=githubactions"></code>
 
 
 ---
