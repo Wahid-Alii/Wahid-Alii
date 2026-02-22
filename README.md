@@ -33,14 +33,14 @@ Open Source Contributor from **Pakistan 💚**
 
 ####
 
-Outside of [GitHub](https://github.com/Wahid-Alii/), You can **find me. Currently I'm **free to contribute**
+Outside of [GitHub](https://github.com/Wahid-Alii/), You can **find me**. Currently I'm **free to contribute**
 
 <p >
-  <a href="https://github.com/Wahid-Alii?tab=followers">
+  <a href="https://github.com/Wahid-Alii?tab=Profile-views">
     <img src="https://komarev.com/ghpvc/?username=Wahid-Alii&color=blue&label=Profile+Views" alt="GitHub badge" />
   </a>
   <a href="https://github.com/Wahid-Alii?tab=followers">
-    <img src="https://img.shields.io/github/followers/MianAizaz6?label=follow&style=social" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Wahid-alii?label=follow&style=social" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/iamwahidd">
     <img src="https://img.shields.io/twitter/follow/iamwahidd?style=social" />
