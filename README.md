@@ -32,7 +32,7 @@
 
 <p><img align="right" alt="GIF" src="aizaz.gif" width="400" height="300" /> </p>
 
-Open Source Contributor from **Pakistan 💚**
+Open Source Contributor from **UAE 💚**
 
 
 #### 🌐 Connect With Me
@@ -54,7 +54,7 @@ I'm currently **open to work, freelance, and collaboration**.
 
   <!-- Followers -->
   <a href="https://github.com/Wahid-Alii?tab=followers">
-    <img src="https://img.shields.io/github/followers/Wahid-Alii?style=for-the-badge&logo=github&label=FOLLOW" />
+    <img src="https://img.shields.io/github/followers/Wahid-Alii?style=for-the-badge&logo=github&label=FOLLOWERS" />
   </a>
 
   <!-- Twitter -->
